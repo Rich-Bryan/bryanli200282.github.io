@@ -63,6 +63,7 @@ p{
 .hero-text{
     margin-left: 80px;
     margin-bottom: 200px;
+
 }
 .button{
     width: 200px;
@@ -138,7 +139,20 @@ a{
     text-decoration: none;
     color: white;
 }
-.langauges{
-    display: table-column;
+.language {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.language-list{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
 
+.language-img-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
