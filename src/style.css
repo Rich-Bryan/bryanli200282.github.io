@@ -65,6 +65,24 @@ p{
     margin-bottom: 200px;
 
 }
+.button-top{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: coral;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 5px;
+}
+.buttom-top:hover{
+    background-color: #fd5e53;
+}
+
+.button-top:active{
+    background-color: #A9A9A9;
+    color:#808080
+}
 .button{
     width: 200px;
     height: 55px;
@@ -76,6 +94,7 @@ p{
     padding-top: 5px;
     margin-top:20px
 }
+
 .buttom:hover{
     background-color: #fd5e53;
 }
@@ -149,6 +168,7 @@ a{
     display: flex;
     justify-content: center;
     width: 50%;
+    margin-bottom: 200px;
 }
 
 .language-img-wrapper{
