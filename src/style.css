@@ -30,6 +30,7 @@ ul {
     width: 500px;
     justify-content: space-around;
     font-size:30px;
+    padding-right: 30px;
 }
 
 li {
@@ -169,6 +170,7 @@ a{
     justify-content: center;
     width: 50%;
     margin-bottom: 200px;
+    padding-right: 30px;
 }
 
 .language-img-wrapper{
