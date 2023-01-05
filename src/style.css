@@ -78,7 +78,7 @@ p{
     font-weight: 400;
     padding-top: 5px;
 }
-.buttom-top:hover{
+.button-top:hover{
     background-color: #fd5e53;
 }
 
@@ -98,7 +98,7 @@ p{
     margin-top:20px
 }
 
-.buttom:hover{
+.button:hover{
     background-color: #fd5e53;
 }
 
