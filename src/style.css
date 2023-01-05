@@ -45,6 +45,7 @@ h1{
 
 h2{
     font-size: 50px;
+    
 }
 
 p{
@@ -198,4 +199,17 @@ a{
 }
 .language:hover .language_name{
     transform: scale(1)
+}
+.contact{
+    font-size: 30px;
+}
+
+.contact-list{
+    display: flex;
+    justify-content: center;
+    
+}
+.social-list{
+    justify-content: space-around;
+    padding-right: 20px;
 }
