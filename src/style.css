@@ -24,6 +24,7 @@ nav {
     justify-content: space-between;
 }
 
+
 ul {
     display: flex;
     list-style-type: none;
@@ -117,7 +118,7 @@ p{
 }
 .socials{
     display: flex;
-    margin-top: 5px;
+    margin-top: 1px;
     margin-left: 15px;
     
 }
