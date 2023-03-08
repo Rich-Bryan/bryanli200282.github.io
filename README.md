@@ -1,2 +1,3 @@
 # personal-web
-Yerrr
+Github pages: https://bryanli200282.github.io/
+
